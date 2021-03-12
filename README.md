@@ -1,5 +1,6 @@
 # Recurring-Decimal
 Convert fraction into recurring decimal in C
+
 e.g.
 1 / 4 = 0.25
 1 / 3 = 0.(3)
