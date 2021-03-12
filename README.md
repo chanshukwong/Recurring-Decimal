@@ -22,4 +22,4 @@ When a number is divided by 2 or 5, there is no recurring decimal. 1/2 = 0.5, 1/
 
 For finding recurring decimal, we use long division. Since long divison will get the remainder, multiply the remainder by 10 and then use as a new nomerator and divide again. This process goes on and on. This fraction will finally multiply by 10^n (we mark down the n and then move the decimal place leftward at certain place m where m<n)
 
-If the denominator has factors 2 or 5, it will be eliminated by some 10. If we know how many 10 need to eliminate 2 and 5, then we know where m is. 
+If the denominator has factors 2 or 5, it will be eliminated by some 10 eventually. If we know how many 10 need to eliminate all those 2 and 5, then we know where m is.
