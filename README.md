@@ -18,7 +18,7 @@ e.g.
 
 The main idea is to find out the decimal place. In order word, where to put a decimal '.'
 
-When a number is divide by 2 or 5, there is no recurring decimal. 1/2 = 0.5, 1/5 = 0.2. Only those are not 2 or not 5. eg. 3, 7, 11. How about 6? In fact, 6 is 2x3 where recurring decimal occurs due to the factor of 3. We factorize the denominator and rule out the factors 2 and 5.
+When a number is divided by 2 or 5, there is no recurring decimal. 1/2 = 0.5, 1/5 = 0.2. Only those are not 2 or not 5. eg. 3, 7, 11. How about 6? In fact, 6 is 2x3 where recurring decimal occurs due to the factor of 3. We factorize the denominator and rule out the factors 2 and 5.
 
 For finding recurring decimal, we use long division. Since long divison will get the remainder, multiply the remainder by 10 and then use as a new nomerator and divide again. This process goes on and on. This fraction will finally multiply by 10^n (we mark down the n and then move the decimal place leftward at certain place m where m<n)
 
