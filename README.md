@@ -1,4 +1,4 @@
-# Recurring-Decimal
+# Recurring-Decimal in C
 Convert fraction into recurring decimal in C
 
 e.g.
